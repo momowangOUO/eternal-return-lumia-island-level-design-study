@@ -1,4 +1,7 @@
 # "Eternal Return" Lumia Island level design reverse research report
+> Language / 语言：[中文](README.md) | English
+>
+> GitHub Reading Notes: this repository keeps the complete Chinese report, the complete English report, and all local image assets. `过程记录.md` is a local work log only and is intentionally excluded from GitHub.
 
 > Version and data base: 2026-06-12 Accessible official 11.4 Patch Notes, Eternal Return Wiki (Fandom data station), DAK.GG character portal and existing official 1.0 Gameplay/Map data.
 > Writing goal: This is a Chinese textbook-type report for level planning, battle planning, and system planning. It focuses on explaining level goals, player movement lines, space layout, interaction mechanisms, obstacle settings, difficulty curves, rhythm control, and reward feedback. Resources, materials, and character routes are only used as evidence for argumentation, not as a main list.
