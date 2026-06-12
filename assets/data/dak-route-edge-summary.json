@@ -1,0 +1,444 @@
+{
+  "generatedAt": "2026-06-13",
+  "source": "assets/data/dak-route-guides-20260613.json",
+  "output": "assets/image2-batch-redraws/level_diagram_02_player_route.png",
+  "distributionOutput": "assets/summary-figures/dak-route-start-end-distribution.png",
+  "heatmapOutput": "assets/summary-figures/dak-route-area-heatmap.png",
+  "sampleCount": 48,
+  "coverage": [
+    {
+      "character": "Jackie",
+      "characterLabel": "Jackie / 杰琪",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 89
+    },
+    {
+      "character": "Aya",
+      "characterLabel": "Aya / 阿雅",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 67
+    },
+    {
+      "character": "Fiora",
+      "characterLabel": "Fiora / 菲奥拉",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 42
+    },
+    {
+      "character": "Yuki",
+      "characterLabel": "Yuki / 雪",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 88
+    },
+    {
+      "character": "Magnus",
+      "characterLabel": "Magnus / 马格努斯",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 78
+    },
+    {
+      "character": "Eleven",
+      "characterLabel": "Eleven / 十一",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 16
+    },
+    {
+      "character": "Estelle",
+      "characterLabel": "Estelle / 埃丝特尔",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 48
+    },
+    {
+      "character": "Luke",
+      "characterLabel": "Luke / 卢克",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 48
+    },
+    {
+      "character": "Haze",
+      "characterLabel": "Haze / 海兹",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 47
+    },
+    {
+      "character": "Rio",
+      "characterLabel": "Rio / 莉央",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 36
+    },
+    {
+      "character": "Nadine",
+      "characterLabel": "Nadine / 娜汀",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 50
+    },
+    {
+      "character": "Hyejin",
+      "characterLabel": "Hyejin / 慧珍",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 27
+    },
+    {
+      "character": "Isol",
+      "characterLabel": "Isol / 伊索尔",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 45
+    },
+    {
+      "character": "Shoichi",
+      "characterLabel": "Shoichi / 彰一",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 48
+    },
+    {
+      "character": "Johann",
+      "characterLabel": "Johann / 约翰",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 16
+    },
+    {
+      "character": "Xiukai",
+      "characterLabel": "Xiukai / 修凯",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 31
+    }
+  ],
+  "areas": [
+    {
+      "area": "Factory",
+      "areaCn": "工厂",
+      "count": 13,
+      "startCount": 6,
+      "endCount": 6,
+      "midCount": 1
+    },
+    {
+      "area": "Barge",
+      "areaCn": "驳船区",
+      "count": 12,
+      "startCount": 10,
+      "endCount": 2,
+      "midCount": 0
+    },
+    {
+      "area": "Cemetery",
+      "areaCn": "墓园",
+      "count": 10,
+      "startCount": 1,
+      "endCount": 8,
+      "midCount": 1
+    },
+    {
+      "area": "Hospital",
+      "areaCn": "医院",
+      "count": 9,
+      "startCount": 7,
+      "endCount": 1,
+      "midCount": 1
+    },
+    {
+      "area": "Alley",
+      "areaCn": "小巷",
+      "count": 7,
+      "startCount": 0,
+      "endCount": 7,
+      "midCount": 0
+    },
+    {
+      "area": "Fire Station",
+      "areaCn": "消防局",
+      "count": 7,
+      "startCount": 3,
+      "endCount": 4,
+      "midCount": 0
+    },
+    {
+      "area": "Dock",
+      "areaCn": "码头",
+      "count": 6,
+      "startCount": 0,
+      "endCount": 6,
+      "midCount": 0
+    },
+    {
+      "area": "Hotel",
+      "areaCn": "旅馆",
+      "count": 6,
+      "startCount": 5,
+      "endCount": 0,
+      "midCount": 1
+    },
+    {
+      "area": "Chapel",
+      "areaCn": "教堂",
+      "count": 6,
+      "startCount": 5,
+      "endCount": 1,
+      "midCount": 0
+    },
+    {
+      "area": "Uptown",
+      "areaCn": "高级住宅区",
+      "count": 5,
+      "startCount": 4,
+      "endCount": 1,
+      "midCount": 0
+    },
+    {
+      "area": "Forest",
+      "areaCn": "森林",
+      "count": 3,
+      "startCount": 0,
+      "endCount": 3,
+      "midCount": 0
+    },
+    {
+      "area": "Stream",
+      "areaCn": "溪流",
+      "count": 3,
+      "startCount": 2,
+      "endCount": 1,
+      "midCount": 0
+    },
+    {
+      "area": "Temple",
+      "areaCn": "寺庙",
+      "count": 3,
+      "startCount": 1,
+      "endCount": 2,
+      "midCount": 0
+    },
+    {
+      "area": "Archery Range",
+      "areaCn": "靶场",
+      "count": 3,
+      "startCount": 1,
+      "endCount": 2,
+      "midCount": 0
+    },
+    {
+      "area": "School",
+      "areaCn": "学校",
+      "count": 2,
+      "startCount": 0,
+      "endCount": 1,
+      "midCount": 1
+    },
+    {
+      "area": "Beach",
+      "areaCn": "海滩",
+      "count": 2,
+      "startCount": 1,
+      "endCount": 1,
+      "midCount": 0
+    },
+    {
+      "area": "Gas Station",
+      "areaCn": "加油站",
+      "count": 2,
+      "startCount": 1,
+      "endCount": 1,
+      "midCount": 0
+    },
+    {
+      "area": "Police Station",
+      "areaCn": "警察局",
+      "count": 1,
+      "startCount": 1,
+      "endCount": 0,
+      "midCount": 0
+    }
+  ],
+  "edges": [
+    {
+      "from": "Hotel",
+      "to": "Dock",
+      "count": 4
+    },
+    {
+      "from": "Hospital",
+      "to": "Cemetery",
+      "count": 4
+    },
+    {
+      "from": "Factory",
+      "to": "Alley",
+      "count": 3
+    },
+    {
+      "from": "Barge",
+      "to": "Alley",
+      "count": 3
+    },
+    {
+      "from": "Barge",
+      "to": "Cemetery",
+      "count": 3
+    },
+    {
+      "from": "Hospital",
+      "to": "Fire Station",
+      "count": 2
+    },
+    {
+      "from": "Uptown",
+      "to": "Factory",
+      "count": 2
+    },
+    {
+      "from": "Chapel",
+      "to": "Factory",
+      "count": 2
+    },
+    {
+      "from": "Hospital",
+      "to": "Dock",
+      "count": 1
+    },
+    {
+      "from": "Barge",
+      "to": "Forest",
+      "count": 1
+    },
+    {
+      "from": "Stream",
+      "to": "Factory",
+      "count": 1
+    },
+    {
+      "from": "Hotel",
+      "to": "Cemetery",
+      "count": 1
+    },
+    {
+      "from": "Factory",
+      "to": "Uptown",
+      "count": 1
+    },
+    {
+      "from": "Temple",
+      "to": "School",
+      "count": 1
+    },
+    {
+      "from": "Fire Station",
+      "to": "Cemetery",
+      "count": 1
+    },
+    {
+      "from": "Uptown",
+      "to": "Fire Station",
+      "count": 1
+    },
+    {
+      "from": "Beach",
+      "to": "Hotel",
+      "count": 1
+    },
+    {
+      "from": "Hotel",
+      "to": "Forest",
+      "count": 1
+    },
+    {
+      "from": "Uptown",
+      "to": "Beach",
+      "count": 1
+    },
+    {
+      "from": "Chapel",
+      "to": "Fire Station",
+      "count": 1
+    },
+    {
+      "from": "Factory",
+      "to": "Forest",
+      "count": 1
+    },
+    {
+      "from": "Hospital",
+      "to": "Stream",
+      "count": 1
+    },
+    {
+      "from": "Gas Station",
+      "to": "Archery Range",
+      "count": 1
+    },
+    {
+      "from": "Factory",
+      "to": "Temple",
+      "count": 1
+    },
+    {
+      "from": "Cemetery",
+      "to": "Factory",
+      "count": 1
+    },
+    {
+      "from": "Factory",
+      "to": "Archery Range",
+      "count": 1
+    },
+    {
+      "from": "Barge",
+      "to": "Chapel",
+      "count": 1
+    },
+    {
+      "from": "Chapel",
+      "to": "Barge",
+      "count": 1
+    },
+    {
+      "from": "Chapel",
+      "to": "Dock",
+      "count": 1
+    },
+    {
+      "from": "Stream",
+      "to": "Barge",
+      "count": 1
+    },
+    {
+      "from": "Police Station",
+      "to": "Temple",
+      "count": 1
+    },
+    {
+      "from": "Archery Range",
+      "to": "School",
+      "count": 1
+    },
+    {
+      "from": "School",
+      "to": "Gas Station",
+      "count": 1
+    },
+    {
+      "from": "Cemetery",
+      "to": "Hospital",
+      "count": 1
+    },
+    {
+      "from": "Barge",
+      "to": "Hospital",
+      "count": 1
+    },
+    {
+      "from": "Fire Station",
+      "to": "Alley",
+      "count": 1
+    },
+    {
+      "from": "Barge",
+      "to": "Factory",
+      "count": 1
+    }
+  ],
+  "notes": [
+    "Arrows connect area sequence from DAK.GG Saved Plan samples; they do not encode exact in-game movement geometry, death heat, or win rate.",
+    "The base map is the local official Kiosk-location evidence image.",
+    "Base material density is intentionally not drawn as a separate layer because the publicly available route evidence does not make density differences clear enough for this report."
+  ]
+}

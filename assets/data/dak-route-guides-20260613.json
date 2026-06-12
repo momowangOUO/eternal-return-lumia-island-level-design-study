@@ -1,0 +1,1334 @@
+{
+  "generatedAt": "2026-06-13",
+  "captureDateForReport": "2026-06-13",
+  "source": "DAK.GG Character Analysis / Saved Plans pages plus er.dakgg.io area dictionary",
+  "sourcePages": [
+    "https://dak.gg/er/characters/Jackie/routes",
+    "https://dak.gg/er/characters/Aya/routes",
+    "https://dak.gg/er/characters/Fiora/routes",
+    "https://dak.gg/er/characters/Yuki/routes",
+    "https://dak.gg/er/characters/Magnus/routes",
+    "https://dak.gg/er/characters/Eleven/routes",
+    "https://dak.gg/er/characters/Estelle/routes",
+    "https://dak.gg/er/characters/Luke/routes",
+    "https://dak.gg/er/characters/Haze/routes",
+    "https://dak.gg/er/characters/Rio/routes",
+    "https://dak.gg/er/characters/Nadine/routes",
+    "https://dak.gg/er/characters/Hyejin/routes",
+    "https://dak.gg/er/characters/Isol/routes",
+    "https://dak.gg/er/characters/Shoichi/routes",
+    "https://dak.gg/er/characters/Johann/routes",
+    "https://dak.gg/er/characters/Xiukai/routes"
+  ],
+  "areaDictionary": "https://er.dakgg.io/api/v1/data/areas?hl=en",
+  "selectionPolicy": "For each report character, prefer newer route versions, then higher DAK likes, then higher DAK displayed win rate; select up to three decodable route guide entries with distinct weapon/path signatures when possible.",
+  "truthBoundary": "These are public DAK.GG Saved Plan guide entries. They are real network guide data, not official routes, not win-rate rankings, and not proof that a character has only these routes.",
+  "coverage": [
+    {
+      "character": "Jackie",
+      "characterLabel": "Jackie / 杰琪",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 89
+    },
+    {
+      "character": "Aya",
+      "characterLabel": "Aya / 阿雅",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 67
+    },
+    {
+      "character": "Fiora",
+      "characterLabel": "Fiora / 菲奥拉",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 42
+    },
+    {
+      "character": "Yuki",
+      "characterLabel": "Yuki / 雪",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 88
+    },
+    {
+      "character": "Magnus",
+      "characterLabel": "Magnus / 马格努斯",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 78
+    },
+    {
+      "character": "Eleven",
+      "characterLabel": "Eleven / 十一",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 16
+    },
+    {
+      "character": "Estelle",
+      "characterLabel": "Estelle / 埃丝特尔",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 48
+    },
+    {
+      "character": "Luke",
+      "characterLabel": "Luke / 卢克",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 48
+    },
+    {
+      "character": "Haze",
+      "characterLabel": "Haze / 海兹",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 47
+    },
+    {
+      "character": "Rio",
+      "characterLabel": "Rio / 莉央",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 36
+    },
+    {
+      "character": "Nadine",
+      "characterLabel": "Nadine / 娜汀",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 50
+    },
+    {
+      "character": "Hyejin",
+      "characterLabel": "Hyejin / 慧珍",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 27
+    },
+    {
+      "character": "Isol",
+      "characterLabel": "Isol / 伊索尔",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 45
+    },
+    {
+      "character": "Shoichi",
+      "characterLabel": "Shoichi / 彰一",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 48
+    },
+    {
+      "character": "Johann",
+      "characterLabel": "Johann / 约翰",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 16
+    },
+    {
+      "character": "Xiukai",
+      "characterLabel": "Xiukai / 修凯",
+      "selectedRoutes": 3,
+      "availableDecodedRoutes": 31
+    }
+  ],
+  "routes": [
+    {
+      "planId": 828,
+      "title": "시즌10 재키 1등 루트",
+      "author": "Husky",
+      "character": "Jackie",
+      "characterLabel": "Jackie / 杰琪",
+      "weaponType": 16,
+      "weapon": "Two-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 72,
+      "like": 3497,
+      "winRate": 13.87,
+      "pathCodes": [
+        120,
+        10
+      ],
+      "path": [
+        "Hospital",
+        "Dock"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Jackie/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Jackie/routes?route=828"
+    },
+    {
+      "planId": 8877,
+      "title": "큐브워치",
+      "author": "Husky",
+      "character": "Jackie",
+      "characterLabel": "Jackie / 杰琪",
+      "weaponType": 16,
+      "weapon": "Two-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 27,
+      "like": 295,
+      "winRate": 16.5,
+      "pathCodes": [
+        170,
+        70
+      ],
+      "path": [
+        "Factory",
+        "Alley"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Jackie/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Jackie/routes?route=8877"
+    },
+    {
+      "planId": 652,
+      "title": "블링크있어야돼!!",
+      "author": "초진동나이프",
+      "character": "Jackie",
+      "characterLabel": "Jackie / 杰琪",
+      "weaponType": 18,
+      "weapon": "Dual Swords",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 22,
+      "like": 238,
+      "winRate": 14.87,
+      "pathCodes": [
+        200,
+        160
+      ],
+      "path": [
+        "Barge",
+        "Forest"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Jackie/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Jackie/routes?route=652"
+    },
+    {
+      "planId": 8745,
+      "title": "살라딘",
+      "author": "넙치사랑단",
+      "character": "Aya",
+      "characterLabel": "Aya / 阿雅",
+      "weaponType": 10,
+      "weapon": "Assault Rifle",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 12,
+      "like": 2318,
+      "winRate": 15.89,
+      "pathCodes": [
+        40,
+        170
+      ],
+      "path": [
+        "Stream",
+        "Factory"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Aya/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Aya/routes?route=8745"
+    },
+    {
+      "planId": 1152,
+      "title": "稳健阿雅",
+      "author": "SnowPodicepsR",
+      "character": "Aya",
+      "characterLabel": "Aya / 阿雅",
+      "weaponType": 10,
+      "weapon": "Assault Rifle",
+      "version": "11.4.0",
+      "languageCode": "zh_CN",
+      "teamMode": 0,
+      "routeVersion": 25,
+      "like": 1057,
+      "winRate": 16.34,
+      "pathCodes": [
+        90,
+        150
+      ],
+      "path": [
+        "Hotel",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Aya/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Aya/routes?route=1152"
+    },
+    {
+      "planId": 8233,
+      "title": "야아",
+      "author": "반괍",
+      "character": "Aya",
+      "characterLabel": "Aya / 阿雅",
+      "weaponType": 9,
+      "weapon": "Pistol",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 5,
+      "like": 1049,
+      "winRate": 16.27,
+      "pathCodes": [
+        170,
+        60
+      ],
+      "path": [
+        "Factory",
+        "Uptown"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Aya/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Aya/routes?route=8233"
+    },
+    {
+      "planId": 1686,
+      "title": "레피 이젠해야됨 튼튼하게",
+      "author": "떠떠",
+      "character": "Fiora",
+      "characterLabel": "Fiora / 菲奥拉",
+      "weaponType": 21,
+      "weapon": "Rapier",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 70,
+      "like": 680,
+      "winRate": 12.08,
+      "pathCodes": [
+        90,
+        10
+      ],
+      "path": [
+        "Hotel",
+        "Dock"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Fiora/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Fiora/routes?route=1686"
+    },
+    {
+      "planId": 9218,
+      "title": "바골",
+      "author": "루미아제일검",
+      "character": "Fiora",
+      "characterLabel": "Fiora / 菲奥拉",
+      "weaponType": 16,
+      "weapon": "Two-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 20,
+      "like": 484,
+      "winRate": 12.01,
+      "pathCodes": [
+        200,
+        70
+      ],
+      "path": [
+        "Barge",
+        "Alley"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Fiora/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Fiora/routes?route=9218"
+    },
+    {
+      "planId": 2010,
+      "title": "양피",
+      "author": "떠떠",
+      "character": "Fiora",
+      "characterLabel": "Fiora / 菲奥拉",
+      "weaponType": 16,
+      "weapon": "Two-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 180,
+      "like": 119,
+      "winRate": 12.17,
+      "pathCodes": [
+        90,
+        10
+      ],
+      "path": [
+        "Hotel",
+        "Dock"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Fiora/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Fiora/routes?route=2010"
+    },
+    {
+      "planId": 2426,
+      "title": "이 시대의 범부 유키",
+      "author": "디에",
+      "character": "Yuki",
+      "characterLabel": "Yuki / 雪",
+      "weaponType": 16,
+      "weapon": "Two-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 52,
+      "like": 5606,
+      "winRate": 14.58,
+      "pathCodes": [
+        120,
+        110
+      ],
+      "path": [
+        "Hospital",
+        "Fire Station"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Yuki/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Yuki/routes?route=2426"
+    },
+    {
+      "planId": 47,
+      "title": "지금이걸버프라고",
+      "author": "이월",
+      "character": "Yuki",
+      "characterLabel": "Yuki / 雪",
+      "weaponType": 16,
+      "weapon": "Two-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 55,
+      "like": 2906,
+      "winRate": 15.62,
+      "pathCodes": [
+        130,
+        190
+      ],
+      "path": [
+        "Temple",
+        "School"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Yuki/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Yuki/routes?route=47"
+    },
+    {
+      "planId": 1174,
+      "title": "돌아온 타이탄 아머",
+      "author": "윤하람",
+      "character": "Yuki",
+      "characterLabel": "Yuki / 雪",
+      "weaponType": 18,
+      "weapon": "Dual Swords",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 24,
+      "like": 2009,
+      "winRate": 13.05,
+      "pathCodes": [
+        60,
+        170
+      ],
+      "path": [
+        "Uptown",
+        "Factory"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Yuki/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Yuki/routes?route=1174"
+    },
+    {
+      "planId": 3262,
+      "title": "123",
+      "author": "김망치",
+      "character": "Magnus",
+      "characterLabel": "Magnus / 马格努斯",
+      "weaponType": 13,
+      "weapon": "Hammer",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 32,
+      "like": 2972,
+      "winRate": 13.8,
+      "pathCodes": [
+        110,
+        150
+      ],
+      "path": [
+        "Fire Station",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Magnus/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Magnus/routes?route=3262"
+    },
+    {
+      "planId": 18221,
+      "title": "아드평매그",
+      "author": "연못여우",
+      "character": "Magnus",
+      "characterLabel": "Magnus / 马格努斯",
+      "weaponType": 3,
+      "weapon": "Bat",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 16,
+      "like": 406,
+      "winRate": 11.56,
+      "pathCodes": [
+        60,
+        110
+      ],
+      "path": [
+        "Uptown",
+        "Fire Station"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Magnus/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Magnus/routes?route=18221"
+    },
+    {
+      "planId": 5977,
+      "title": "10%는 조상님이(설명 추가)",
+      "author": "나는탱커다",
+      "character": "Magnus",
+      "characterLabel": "Magnus / 马格努斯",
+      "weaponType": 3,
+      "weapon": "Bat",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 33,
+      "like": 107,
+      "winRate": 13.69,
+      "pathCodes": [
+        90,
+        10
+      ],
+      "path": [
+        "Hotel",
+        "Dock"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Magnus/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Magnus/routes?route=5977"
+    },
+    {
+      "planId": 7,
+      "title": "LOVE 11",
+      "author": "TwitchNunuzz",
+      "character": "Eleven",
+      "characterLabel": "Eleven / 十一",
+      "weaponType": 13,
+      "weapon": "Hammer",
+      "version": "11.4.0",
+      "languageCode": "zh_TW",
+      "teamMode": 0,
+      "routeVersion": 26,
+      "like": 4161,
+      "winRate": 16.31,
+      "pathCodes": [
+        50,
+        90,
+        160
+      ],
+      "path": [
+        "Beach",
+        "Hotel",
+        "Forest"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Eleven/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Eleven/routes?route=7"
+    },
+    {
+      "planId": 23463,
+      "title": "불드",
+      "author": "반갑고양이1",
+      "character": "Eleven",
+      "characterLabel": "Eleven / 十一",
+      "weaponType": 13,
+      "weapon": "Hammer",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 8,
+      "like": 11,
+      "winRate": 18.03,
+      "pathCodes": [
+        60,
+        50
+      ],
+      "path": [
+        "Uptown",
+        "Beach"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Eleven/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Eleven/routes?route=23463"
+    },
+    {
+      "planId": 4515,
+      "title": "2루트 노주문",
+      "author": "하은류",
+      "character": "Eleven",
+      "characterLabel": "Eleven / 十一",
+      "weaponType": 13,
+      "weapon": "Hammer",
+      "version": "11.3.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 4,
+      "like": 1073,
+      "winRate": 14.67,
+      "pathCodes": [
+        180,
+        110
+      ],
+      "path": [
+        "Chapel",
+        "Fire Station"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Eleven/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Eleven/routes?route=4515"
+    },
+    {
+      "planId": 2185,
+      "title": "진칼버프",
+      "author": "Shigetora",
+      "character": "Estelle",
+      "characterLabel": "Estelle / 埃丝特尔",
+      "weaponType": 14,
+      "weapon": "Axe",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 18,
+      "like": 3656,
+      "winRate": 13.82,
+      "pathCodes": [
+        170,
+        160
+      ],
+      "path": [
+        "Factory",
+        "Forest"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Estelle/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Estelle/routes?route=2185"
+    },
+    {
+      "planId": 6755,
+      "title": "와류레버하온파",
+      "author": "게임이진짜이상함",
+      "character": "Estelle",
+      "characterLabel": "Estelle / 埃丝特尔",
+      "weaponType": 14,
+      "weapon": "Axe",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 7,
+      "like": 38,
+      "winRate": 16.74,
+      "pathCodes": [
+        120,
+        110
+      ],
+      "path": [
+        "Hospital",
+        "Fire Station"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Estelle/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Estelle/routes?route=6755"
+    },
+    {
+      "planId": 12978,
+      "title": "Brain DMG",
+      "author": "Meep",
+      "character": "Estelle",
+      "characterLabel": "Estelle / 埃丝特尔",
+      "weaponType": 14,
+      "weapon": "Axe",
+      "version": "11.4.0",
+      "languageCode": "en",
+      "teamMode": 0,
+      "routeVersion": 7,
+      "like": 26,
+      "winRate": 27.96,
+      "pathCodes": [
+        120,
+        40
+      ],
+      "path": [
+        "Hospital",
+        "Stream"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Estelle/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Estelle/routes?route=12978"
+    },
+    {
+      "planId": 4975,
+      "title": "짬처리 등록",
+      "author": "Deo",
+      "character": "Luke",
+      "characterLabel": "Luke / 卢克",
+      "weaponType": 3,
+      "weapon": "Bat",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 9,
+      "like": 791,
+      "winRate": 13.87,
+      "pathCodes": [
+        60,
+        170
+      ],
+      "path": [
+        "Uptown",
+        "Factory"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Luke/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Luke/routes?route=4975"
+    },
+    {
+      "planId": 21703,
+      "title": "호항 딜루크",
+      "author": "대루황",
+      "character": "Luke",
+      "characterLabel": "Luke / 卢克",
+      "weaponType": 3,
+      "weapon": "Bat",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 25,
+      "like": 38,
+      "winRate": 13.99,
+      "pathCodes": [
+        90,
+        10
+      ],
+      "path": [
+        "Hotel",
+        "Dock"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Luke/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Luke/routes?route=21703"
+    },
+    {
+      "planId": 26530,
+      "title": "창의 숨겨진 루트",
+      "author": "Mr창",
+      "character": "Luke",
+      "characterLabel": "Luke / 卢克",
+      "weaponType": 3,
+      "weapon": "Bat",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 162,
+      "like": 29,
+      "winRate": 10.6,
+      "pathCodes": [
+        80,
+        140
+      ],
+      "path": [
+        "Gas Station",
+        "Archery Range"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Luke/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Luke/routes?route=26530"
+    },
+    {
+      "planId": 3107,
+      "title": "11시즌 헤이즈",
+      "author": "아인",
+      "character": "Haze",
+      "characterLabel": "Haze / 海兹",
+      "weaponType": 10,
+      "weapon": "Assault Rifle",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 66,
+      "like": 1746,
+      "winRate": 13.34,
+      "pathCodes": [
+        170,
+        130
+      ],
+      "path": [
+        "Factory",
+        "Temple"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Haze/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Haze/routes?route=3107"
+    },
+    {
+      "planId": 32454,
+      "title": "ervn",
+      "author": "xDia",
+      "character": "Haze",
+      "characterLabel": "Haze / 海兹",
+      "weaponType": 10,
+      "weapon": "Assault Rifle",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 50,
+      "like": 7,
+      "winRate": 7.87,
+      "pathCodes": [
+        120,
+        150
+      ],
+      "path": [
+        "Hospital",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Haze/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Haze/routes?route=32454"
+    },
+    {
+      "planId": 43840,
+      "title": "권가원",
+      "author": "권가원",
+      "character": "Haze",
+      "characterLabel": "Haze / 海兹",
+      "weaponType": 10,
+      "weapon": "Assault Rifle",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 78,
+      "like": 4,
+      "winRate": 30.77,
+      "pathCodes": [
+        150,
+        170,
+        140
+      ],
+      "path": [
+        "Cemetery",
+        "Factory",
+        "Archery Range"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Haze/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Haze/routes?route=43840"
+    },
+    {
+      "planId": 513,
+      "title": "123",
+      "author": "Chzzk루나",
+      "character": "Rio",
+      "characterLabel": "Rio / 莉央",
+      "weaponType": 7,
+      "weapon": "Bow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 34,
+      "like": 4856,
+      "winRate": 13.99,
+      "pathCodes": [
+        200,
+        180
+      ],
+      "path": [
+        "Barge",
+        "Chapel"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Rio/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Rio/routes?route=513"
+    },
+    {
+      "planId": 8086,
+      "title": "카이",
+      "author": "빙밍",
+      "character": "Rio",
+      "characterLabel": "Rio / 莉央",
+      "weaponType": 7,
+      "weapon": "Bow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 20,
+      "like": 53,
+      "winRate": 24.49,
+      "pathCodes": [
+        180,
+        170
+      ],
+      "path": [
+        "Chapel",
+        "Factory"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Rio/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Rio/routes?route=8086"
+    },
+    {
+      "planId": 9674,
+      "title": "내 여자 친구임",
+      "author": "줘팸유혈조교순애",
+      "character": "Rio",
+      "characterLabel": "Rio / 莉央",
+      "weaponType": 7,
+      "weapon": "Bow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 22,
+      "like": 18,
+      "winRate": 22.47,
+      "pathCodes": [
+        180,
+        200
+      ],
+      "path": [
+        "Chapel",
+        "Barge"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Rio/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Rio/routes?route=9674"
+    },
+    {
+      "planId": 276,
+      "title": "바지선가면 노주문",
+      "author": "유사유사",
+      "character": "Nadine",
+      "characterLabel": "Nadine / 娜汀",
+      "weaponType": 8,
+      "weapon": "CrossBow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 25,
+      "like": 2706,
+      "winRate": 15.09,
+      "pathCodes": [
+        180,
+        10
+      ],
+      "path": [
+        "Chapel",
+        "Dock"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Nadine/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Nadine/routes?route=276"
+    },
+    {
+      "planId": 7199,
+      "title": "개바",
+      "author": "키리스나",
+      "character": "Nadine",
+      "characterLabel": "Nadine / 娜汀",
+      "weaponType": 8,
+      "weapon": "CrossBow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 6,
+      "like": 339,
+      "winRate": 16.03,
+      "pathCodes": [
+        40,
+        200
+      ],
+      "path": [
+        "Stream",
+        "Barge"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Nadine/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Nadine/routes?route=7199"
+    },
+    {
+      "planId": 11579,
+      "title": "공속활나딘",
+      "author": "youngguk",
+      "character": "Nadine",
+      "characterLabel": "Nadine / 娜汀",
+      "weaponType": 7,
+      "weapon": "Bow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 6,
+      "like": 139,
+      "winRate": 14.02,
+      "pathCodes": [
+        170,
+        70
+      ],
+      "path": [
+        "Factory",
+        "Alley"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Nadine/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Nadine/routes?route=11579"
+    },
+    {
+      "planId": 9147,
+      "title": "2루트",
+      "author": "유산",
+      "character": "Hyejin",
+      "characterLabel": "Hyejin / 慧珍",
+      "weaponType": 6,
+      "weapon": "Direct Fire",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 36,
+      "like": 339,
+      "winRate": 14.55,
+      "pathCodes": [
+        200,
+        150
+      ],
+      "path": [
+        "Barge",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Hyejin/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Hyejin/routes?route=9147"
+    },
+    {
+      "planId": 2234,
+      "title": "냥냥 2루트혜찐",
+      "author": "정유자",
+      "character": "Hyejin",
+      "characterLabel": "Hyejin / 慧珍",
+      "weaponType": 7,
+      "weapon": "Bow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 22,
+      "like": 291,
+      "winRate": 13.15,
+      "pathCodes": [
+        200,
+        150
+      ],
+      "path": [
+        "Barge",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Hyejin/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Hyejin/routes?route=2234"
+    },
+    {
+      "planId": 29621,
+      "title": "324",
+      "author": "ARunei",
+      "character": "Hyejin",
+      "characterLabel": "Hyejin / 慧珍",
+      "weaponType": 7,
+      "weapon": "Bow",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 14,
+      "like": 36,
+      "winRate": 12.28,
+      "pathCodes": [
+        120,
+        150
+      ],
+      "path": [
+        "Hospital",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Hyejin/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Hyejin/routes?route=29621"
+    },
+    {
+      "planId": 683,
+      "title": "리마스터 기원3일차",
+      "author": "티모솔",
+      "character": "Isol",
+      "characterLabel": "Isol / 伊索尔",
+      "weaponType": 9,
+      "weapon": "Pistol",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 31,
+      "like": 1725,
+      "winRate": 14.57,
+      "pathCodes": [
+        100,
+        130
+      ],
+      "path": [
+        "Police Station",
+        "Temple"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Isol/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Isol/routes?route=683"
+    },
+    {
+      "planId": 8648,
+      "title": "내가 돌아왔다",
+      "author": "DryFlower",
+      "character": "Isol",
+      "characterLabel": "Isol / 伊索尔",
+      "weaponType": 10,
+      "weapon": "Assault Rifle",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 29,
+      "like": 711,
+      "winRate": 15.03,
+      "pathCodes": [
+        180,
+        170
+      ],
+      "path": [
+        "Chapel",
+        "Factory"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Isol/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Isol/routes?route=8648"
+    },
+    {
+      "planId": 14551,
+      "title": "반역의 의지",
+      "author": "온파랑",
+      "character": "Isol",
+      "characterLabel": "Isol / 伊索尔",
+      "weaponType": 9,
+      "weapon": "Pistol",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 35,
+      "like": 272,
+      "winRate": 14.38,
+      "pathCodes": [
+        140,
+        190,
+        80
+      ],
+      "path": [
+        "Archery Range",
+        "School",
+        "Gas Station"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Isol/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Isol/routes?route=14551"
+    },
+    {
+      "planId": 13573,
+      "title": "쇼이치의신너구리",
+      "author": "루미날",
+      "character": "Shoichi",
+      "characterLabel": "Shoichi / 彰一",
+      "weaponType": 15,
+      "weapon": "One-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 65,
+      "like": 5427,
+      "winRate": 11.09,
+      "pathCodes": [
+        120,
+        150
+      ],
+      "path": [
+        "Hospital",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Shoichi/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Shoichi/routes?route=13573"
+    },
+    {
+      "planId": 1620,
+      "title": "바골",
+      "author": "인문에몽",
+      "character": "Shoichi",
+      "characterLabel": "Shoichi / 彰一",
+      "weaponType": 15,
+      "weapon": "One-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 9,
+      "like": 55,
+      "winRate": 12.9,
+      "pathCodes": [
+        200,
+        70
+      ],
+      "path": [
+        "Barge",
+        "Alley"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Shoichi/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Shoichi/routes?route=1620"
+    },
+    {
+      "planId": 2904,
+      "title": "돌풍 싫어",
+      "author": "졸린바우게",
+      "character": "Shoichi",
+      "characterLabel": "Shoichi / 彰一",
+      "weaponType": 15,
+      "weapon": "One-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 17,
+      "like": 33,
+      "winRate": 17.28,
+      "pathCodes": [
+        170,
+        70
+      ],
+      "path": [
+        "Factory",
+        "Alley"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Shoichi/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Shoichi/routes?route=2904"
+    },
+    {
+      "planId": 2917,
+      "title": "고점은 프콜강결, 템사주기",
+      "author": "Priest",
+      "character": "Johann",
+      "characterLabel": "Johann / 约翰",
+      "weaponType": 24,
+      "weapon": "Arcana",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 182,
+      "like": 889,
+      "winRate": 16.76,
+      "pathCodes": [
+        200,
+        70
+      ],
+      "path": [
+        "Barge",
+        "Alley"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Johann/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Johann/routes?route=2917"
+    },
+    {
+      "planId": 16644,
+      "title": "요한조음",
+      "author": "백도하요",
+      "character": "Johann",
+      "characterLabel": "Johann / 约翰",
+      "weaponType": 24,
+      "weapon": "Arcana",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 7,
+      "like": 18,
+      "winRate": 17.12,
+      "pathCodes": [
+        200,
+        150,
+        120
+      ],
+      "path": [
+        "Barge",
+        "Cemetery",
+        "Hospital"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Johann/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Johann/routes?route=16644"
+    },
+    {
+      "planId": 5733,
+      "title": "阿 彌 陀 佛",
+      "author": "SweetPotatoFox",
+      "character": "Johann",
+      "characterLabel": "Johann / 约翰",
+      "weaponType": 24,
+      "weapon": "Arcana",
+      "version": "11.3.0",
+      "languageCode": "zh_TW",
+      "teamMode": 0,
+      "routeVersion": 18,
+      "like": 67,
+      "winRate": 16.64,
+      "pathCodes": [
+        200,
+        120,
+        150
+      ],
+      "path": [
+        "Barge",
+        "Hospital",
+        "Cemetery"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Johann/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Johann/routes?route=5733"
+    },
+    {
+      "planId": 3024,
+      "title": "소방서/공장 1루트",
+      "author": "메가재범사생팬",
+      "character": "Xiukai",
+      "characterLabel": "Xiukai / 修凯",
+      "weaponType": 19,
+      "weapon": "Spear",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 57,
+      "like": 278,
+      "winRate": 15.26,
+      "pathCodes": [
+        110
+      ],
+      "path": [
+        "Fire Station"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Xiukai/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Xiukai/routes?route=3024"
+    },
+    {
+      "planId": 5134,
+      "title": "신속 + 비질(딜탱)",
+      "author": "물냉파",
+      "character": "Xiukai",
+      "characterLabel": "Xiukai / 修凯",
+      "weaponType": 15,
+      "weapon": "One-handed Sword",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 11,
+      "like": 210,
+      "winRate": 15.81,
+      "pathCodes": [
+        110,
+        70
+      ],
+      "path": [
+        "Fire Station",
+        "Alley"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Xiukai/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Xiukai/routes?route=5134"
+    },
+    {
+      "planId": 25210,
+      "title": "위대한 쇼우맨",
+      "author": "알렉산더안데르센",
+      "character": "Xiukai",
+      "characterLabel": "Xiukai / 修凯",
+      "weaponType": 19,
+      "weapon": "Spear",
+      "version": "11.4.0",
+      "languageCode": "ko",
+      "teamMode": 0,
+      "routeVersion": 27,
+      "like": 36,
+      "winRate": 14.21,
+      "pathCodes": [
+        200,
+        170
+      ],
+      "path": [
+        "Barge",
+        "Factory"
+      ],
+      "sourcePage": "https://dak.gg/er/characters/Xiukai/routes",
+      "sourceUrl": "https://dak.gg/er/characters/Xiukai/routes?route=25210"
+    }
+  ]
+}
