@@ -411,7 +411,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "草丛/箱体/脚步声半径无公开坐标；只能按战争迷雾与港区边缘转角解释隐蔽压力。",
-                                              "evidenceLevel":  "资料缺口"
+                                              "evidenceLevel":  "证据边界"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -501,7 +501,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到草丛或掩体坐标；可验证的是该区处在外圈转线节点，隐蔽风险来自战争迷雾和短路口。",
-                                              "evidenceLevel":  "资料缺口"
+                                              "evidenceLevel":  "证据边界"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -553,7 +553,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到草丛坐标；水系区域隐蔽设计只按战争迷雾与相邻短路口分析。",
-                                              "evidenceLevel":  "资料缺口"
+                                              "evidenceLevel":  "证据边界"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -605,7 +605,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到草丛/听觉数据；可作为远程角色通过战争迷雾进入寺庙/靶场前的短时信息区。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -671,7 +671,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "公开资料未给海滩草丛/掩体坐标；海滩隐蔽风险主要来自外圈边界与转角进场。",
-                                              "evidenceLevel":  "资料缺口"
+                                              "evidenceLevel":  "证据边界"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -734,7 +734,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到草丛/掩体坐标；可作为短线转移与战争迷雾伏击读法，不写坐标。",
-                                              "evidenceLevel":  "资料缺口"
+                                              "evidenceLevel":  "证据边界"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -797,7 +797,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到草丛坐标；小巷可验证设计是短路口、建筑边缘与战争迷雾，不写掩体高度。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -860,7 +860,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到草丛坐标；油电补件点易形成短停伏击，但只能作为设计分析。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -909,7 +909,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到草丛/建筑可进入细节坐标；旅馆应按中继短停、高频交会点处理。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -990,7 +990,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "无草丛坐标；工厂的可验证摩擦来自工业件吸力与狼群停留时间。",
-                                              "evidenceLevel":  "资料缺口 + 官方目标"
+                                              "evidenceLevel":  "证据边界 + 官方目标"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1094,7 +1094,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到墓园草丛坐标；可作为窄口控制和战争迷雾边缘区分析。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1184,7 +1184,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "无公开草丛/房间坐标；医院分析只使用材料吸力、中继停留和战争迷雾，不伪造建筑细节。",
-                                              "evidenceLevel":  "资料缺口"
+                                              "evidenceLevel":  "证据边界"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1360,7 +1360,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "无公开草丛坐标；消防局作为接近研究中心外环前的装备校验点，信息压力来自 Kiosk/传送门交汇和 Wickeline 外移路径侧目标。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1525,7 +1525,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "公开资料未给森林草丛坐标；只能作为远程边缘空间和战争迷雾读法。",
-                                              "evidenceLevel":  "资料缺口"
+                                              "evidenceLevel":  "证据边界"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1606,7 +1606,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "无公开草丛坐标；靶场的可验证高压来自远程材料吸力与 Day 2 狼群停留。",
-                                              "evidenceLevel":  "资料缺口 + 官方 Herd"
+                                              "evidenceLevel":  "证据边界 + 官方 Herd"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1659,7 +1659,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "草丛坐标未找到；寺庙窄路控制强的判断基于路线结构与控制角色交互，不写具体掩体。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1740,7 +1740,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "无草丛/建筑细节坐标；学校作为补件点与研究中心外环高压区相邻，信息价值来自短时视野、目标提示和限制区计时器判断。",
-                                              "evidenceLevel":  "资料缺口 + 设计分析"
+                                              "evidenceLevel":  "证据边界 + 设计分析"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1796,7 +1796,7 @@
                                          },
                           "concealment":  {
                                               "summary":  "未找到研究中心/学校侧草丛坐标、箱体高度、单向视线窗或普通进入条件；本报告只分析公开目标提示、限制区计时器、视野过期、第三方动线。",
-                                              "evidenceLevel":  "资料缺口 + 官方目标机制 + Wiki/资料站"
+                                              "evidenceLevel":  "证据边界 + 官方目标机制 + Wiki/资料站"
                                           },
                           "battleZone":  {
                                              "summary":  "Battle Zone 仅作为旧机制资料保留，不作为本区当前规则；本区按普通区域限制/重开、Kiosk/目标停留、隐蔽缺口与安全区收束分析。",
@@ -1838,6 +1838,6 @@
                      "公开死亡热力图 / 玩家交战热力图未找到。",
                      "普通野怪精确坐标、草丛坐标、箱体高度、单向视线窗数据未找到。",
                      "地表材质脚步声传播半径未找到。",
-                     "DAK.GG 部分 Saved Plan ID 与统计字段可读，但 Start Place / End Place / Movement 的地区图标名称和逐格地区路线 payload 未能稳定抓取；F-04 仍是路线行为样例图，不是已验证真实路线图。"
+                     "DAK.GG Saved Plan SSR payload 与地区字典已能解析 16 名样本角色各 3 条路线，共 48 条 Plan ID、武器、版本和地区序列；F-04 / F-04a / F-04b 已按这组真实网络攻略样本重绘。路线样本不代表官方路线、强度排行或唯一最优路线，未公开的逐格草丛/墙体/脚步声数据仍不写成事实。"
                  ]
 }
