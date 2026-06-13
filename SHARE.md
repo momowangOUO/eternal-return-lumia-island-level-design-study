@@ -2,9 +2,9 @@
 
 ## 中文短帖
 
-Lumia Island 先给自由，再把自由压缩成压力。
+Lumia Island 先让玩家自由搜刮和换线，再用 Kiosk、Wickeline 和限制区逼他们做取舍。
 
-我做了一份《永恒轮回》Lumia Island 关卡设计逆向研究，用公开资料、官方图和 48 条 DAK.GG Saved Plan 路线样本，拆 Kiosk、Wickeline、限制区、PvE 奖励和角色路线如何把玩家推向同一个决策漩涡。
+我做了一份《永恒轮回》Lumia Island 关卡设计逆向研究，用公开资料、官方图和 48 条 DAK.GG Saved Plan 路线样本，拆 Kiosk、Wickeline、限制区、PvE 奖励和角色路线如何让玩家不断选择：继续发育、停下兑现，还是提前撤走。
 
 这不是角色强度榜，也不是路线攻略；它是一份带证据边界的地图设计研究。
 
@@ -28,7 +28,7 @@ GitHub: https://github.com/momowangOUO/eternal-return-lumia-island-level-design-
 
 ## English Short Post
 
-Lumia Island gives players freedom first, then squeezes that freedom into pressure.
+Lumia Island first lets players loot and rotate freely, then uses Kiosks, Wickeline, and restricted zones to force hard choices.
 
 I made a source-grounded Eternal Return level-design study using public sources, official images, and 48 DAK.GG Saved Plan route samples to examine Kiosks, Wickeline, restricted zones, PvE rewards, and character routes.
 
