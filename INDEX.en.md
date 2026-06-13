@@ -2,6 +2,12 @@
 
 This repository contains one complete report. The README is the full GitHub-reading edition; `报告.md` keeps the same Chinese source for reuse, citation, or local reading.
 
+## Metadata
+
+- Author: 魔魔王
+- Version: v1.0
+- Publication date: 2026-06-13
+
 | Report | One-line description | Topics | Best for | Updated | Read |
 |---|---|---|---|---|---|
 | Eternal Return Lumia Island Level Design Study: Routes, Kiosks, Wickeline, Endgame Pressure | Uses public sources, official images, and 48 DAK.GG Saved Plan route samples to study Lumia Island's spatial pressure system. | Eternal Return, route samples, Kiosk, Wickeline, restricted zones, character-terrain interaction | MOBA / PvPvE level designers, combat designers, systems designers, map researchers, Eternal Return content creators | 2026-06-13 | [README.en.md](README.en.md) / [中文](README.md) |
@@ -17,11 +23,12 @@ This report uses public material, local assets, and 48 DAK.GG Saved Plan route s
 
 ## How To Cite
 
-Suggested citation: `Eternal Return Lumia Island Level Design Study: Routes, Kiosks, Wickeline, Endgame Pressure, GitHub repository, accessed YYYY-MM-DD.`
+Suggested citation: `魔魔王. Eternal Return Lumia Island Level Design Study: Routes, Kiosks, Wickeline, Endgame Pressure. Version 1.0. GitHub repository, 2026-06-13. Accessed YYYY-MM-DD.`
 
-TODO: add maintainer-approved author name, version number, and publication date for formal citation.
+## Review Status
 
-## Needs Human Confirmation
-
-- Route samples show public guide tendencies for the sampled characters; they do not represent the full ranked distribution or official recommended routes.
+- Confirmed: author, version, publication date, and citation format have been filled in.
+- Reviewed: as of 2026-06-13, the latest accessible official patch context is 11.4b Hotfix; 11.4a fixed Chapel vision, and the main 11.4 patch adjusted Chapel-area terrain. The report therefore treats Chapel as a current-version terrain/vision boundary and does not infer unpublished details.
+- Confirmed: the 48 DAK.GG Saved Plan samples prove that the sampled characters have traceable public route samples, which is enough for route-tendency and area-heat observations.
+- The route samples do not represent the full ranked distribution, official recommended routes, or a character tier list.
 - Grass coordinates, footstep radius, cover dimensions, and real death heat maps must not be stated as facts without public evidence.
