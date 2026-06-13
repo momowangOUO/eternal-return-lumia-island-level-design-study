@@ -1,7 +1,17 @@
-# 《永恒轮回》Lumia Island 关卡设计逆向研究报告
+# Eternal Return Lumia Island Level Design Study：路线样本、Kiosk、Wickeline 与终局压力
 > 语言 / Language：中文 | [English](README.en.md)
 >
 > GitHub 阅读说明：本仓库保留完整中文版报告、完整英文版报告和全部本地图片资产；`过程记录.md` 仅作本地工作日志，已按要求排除，不会上传到 GitHub。
+
+> 一句话：用公开资料、官方图和 48 条 DAK.GG Saved Plan 路线样本，拆解 Lumia Island 如何把搜刮、换线、Kiosk、Wickeline 和终局限制区压成一套空间压力系统。
+>
+> 适合谁：MOBA / PvPvE 关卡设计师、战斗策划、系统策划、地图研究者、Eternal Return 玩家与内容作者。
+>
+> 为什么值得 Star：这不是角色强度榜或路线攻略，而是一份有证据边界的地图设计逆向研究，包含 55 张本地图、16 名角色各 3 条真实网络攻略路线样本和中英文双语版本。
+>
+> 同系列： [Gameplay Matrix 工具包](https://github.com/momowangOUO/level-design-gameplay-matrix-spatial-iteration) / [三角洲行动地图拆解](https://github.com/momowangOUO/delta-force-map-system-reverse-study) / [生存本能与空间心理](https://github.com/momowangOUO/better-level-design-survival-instinct-space-psychology) / [搜打撤白皮书](https://github.com/momowangOUO/extraction-shooter-map-level-design-whitepaper)
+>
+> 想分享这份资料：可直接使用 [SHARE.md](SHARE.md) 里的中英文文案。
 
 > 版本口径：本文按 2026-06-12 至 2026-06-13 可访问的公开资料和本地化资产写作；完整来源与证据边界见文末。
 >

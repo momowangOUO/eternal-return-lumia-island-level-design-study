@@ -1,7 +1,17 @@
-# "Eternal Return" Lumia Island level design reverse research report
+# Eternal Return Lumia Island Level Design Study: Routes, Kiosks, Wickeline, Endgame Pressure
 > Language / 语言：[中文](README.md) | English
 >
 > GitHub Reading Notes: this repository keeps the complete Chinese report, the complete English report, and all local image assets. `过程记录.md` is a local work log only and is intentionally excluded from GitHub.
+
+> One-line pitch: use public sources, official images, and 48 DAK.GG Saved Plan route samples to explain how Lumia Island turns looting, rotation, Kiosks, Wickeline, and restricted zones into one spatial pressure system.
+>
+> For: MOBA / PvPvE level designers, combat designers, systems designers, map researchers, Eternal Return players, and content creators.
+>
+> Why star it: this is not a tier list or route guide; it is a source-grounded map-design study with 55 local figures, 16 characters x 3 real network-guide route samples, and Chinese / English editions.
+>
+> Related repos: [Gameplay Matrix Toolkit](https://github.com/momowangOUO/level-design-gameplay-matrix-spatial-iteration) / [Delta Force Map Study](https://github.com/momowangOUO/delta-force-map-system-reverse-study) / [Survival Instinct And Spatial Psychology](https://github.com/momowangOUO/better-level-design-survival-instinct-space-psychology) / [Extraction Shooter Whitepaper](https://github.com/momowangOUO/extraction-shooter-map-level-design-whitepaper)
+>
+> Want to share it: use the ready-to-copy posts in [SHARE.md](SHARE.md).
 
 > Version scope: this report uses public material and localized assets available from 2026-06-12 to 2026-06-13; complete sources and evidence boundaries are collected at the end.
 > Writing goal: This is a Chinese textbook-type report for level planning, battle planning, and system planning. It focuses on explaining level goals, player movement lines, space layout, interaction mechanisms, obstacle settings, difficulty curves, rhythm control, and reward feedback. Resources, materials, and character routes are only used as evidence for argumentation, not as a main list.
