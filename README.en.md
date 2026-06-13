@@ -5,9 +5,16 @@
 >
 > For: MOBA / PvPvE level designers, combat designers, systems designers, map researchers, Eternal Return players, and content creators.
 >
-> Why star it: this is not a tier list or route guide; it is a source-grounded map-design study with 55 local figures, 16 characters x 3 real network-guide route samples, and Chinese / English editions.
+> Reading value: this is not a tier list or route guide; it is a source-grounded map-design study with 55 local figures, 16 characters x 3 real network-guide route samples, and Chinese / English editions.
 >
-> Want to share it: use the ready-to-copy posts in [SHARE.md](SHARE.md).
+> Reading entry: this page is the complete English edition; use [INDEX.en.md](INDEX.en.md) for the compact index.
+
+## Key Takeaways
+
+- Lumia Island does not leave players in permanent looting freedom. It gives early route freedom, then compresses it through Kiosks, public objectives, Wickeline, and restricted zones.
+- The 48 DAK.GG Saved Plan samples are used to observe route tendencies, not to claim a full ranked distribution or a character tier list.
+- Kiosks and Wickeline matter because staying becomes visible: payout, revival, shopping, and boss handling all create windows that third parties can read.
+- Public sources do not confirm grass coordinates, footstep radius, cover dimensions, or real death heat maps; this report states only checkable mechanics as facts.
 
 > Version scope: this report uses public material and localized assets available from 2026-06-12 to 2026-06-13; complete sources and evidence boundaries are collected at the end.
 > Writing goal: This is a Chinese textbook-type report for level planning, battle planning, and system planning. It focuses on explaining level goals, player movement lines, space layout, interaction mechanisms, obstacle settings, difficulty curves, rhythm control, and reward feedback. Resources, materials, and character routes are only used as evidence for argumentation, not as a main list.
