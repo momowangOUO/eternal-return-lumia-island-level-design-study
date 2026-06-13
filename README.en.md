@@ -1,15 +1,11 @@
 # Eternal Return Lumia Island Level Design Study: Routes, Kiosks, Wickeline, Endgame Pressure
 > Language / 语言：[中文](README.md) | English
 >
-> GitHub Reading Notes: this repository keeps the complete Chinese report, the complete English report, and all local image assets. `过程记录.md` is a local work log only and is intentionally excluded from GitHub.
-
 > One-line pitch: use public sources, official images, and 48 DAK.GG Saved Plan route samples to explain how Lumia Island turns looting, rotation, Kiosks, Wickeline, and restricted zones into one spatial pressure system.
 >
 > For: MOBA / PvPvE level designers, combat designers, systems designers, map researchers, Eternal Return players, and content creators.
 >
 > Why star it: this is not a tier list or route guide; it is a source-grounded map-design study with 55 local figures, 16 characters x 3 real network-guide route samples, and Chinese / English editions.
->
-> Related repos: [Gameplay Matrix Toolkit](https://github.com/momowangOUO/level-design-gameplay-matrix-spatial-iteration) / [Delta Force Map Study](https://github.com/momowangOUO/delta-force-map-system-reverse-study) / [Survival Instinct And Spatial Psychology](https://github.com/momowangOUO/better-level-design-survival-instinct-space-psychology) / [Extraction Shooter Whitepaper](https://github.com/momowangOUO/extraction-shooter-map-level-design-whitepaper)
 >
 > Want to share it: use the ready-to-copy posts in [SHARE.md](SHARE.md).
 
@@ -1361,13 +1357,3 @@ The replacement principle is very simple: if you get a clear actual machine pict
 | S-CHAR | Local avatar evidence assets | `assets/character-*.png` | localized assets | Grab 2026-06-11 | local path | Character avatar overview and character-terrain matrix |
 | S-IMG2 | image2 batch redraw assets | `assets/image2-batch-redraws/level_diagram_*.png` | OpenAI image2 / localized output | Generate 2026-06-12 | local path | Interpretive schematic generated based on reported actual map evidence, old croppings, and conformal maps from accredited research centers; not an official screenshot and does not serve as evidence of grass coordinates, footstep radius, bunker dimensions, or death heat maps |
 | S-VID-OPTIONAL | Optional live-video evidence expansion | ER Masters / high-level match screenshot directions | Optional expansion | Not part of current factual evidence | No local citation | Research Center Wickeline fights, School west entrance, Hospital three-way entrance, Forest flank, Dock exit route, Kiosk revival, and Mutant Herd contests; currently only future expansion directions, not factual evidence |
-
-
-
-
-
-
-
-
-
-
