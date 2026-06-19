@@ -6,7 +6,7 @@
 
 - 已扫描报告：`reports/eternal-return-map-reverse-engineering.md`
 - 已识别需要 image2 重绘或优化的分析示意图：31 张
-- 已生成逐图中文 image2 提示词：`batch-redraw-targets.json`
+- 已整理逐图中文 image2 重绘说明：`batch-redraw-targets.json`
 - 已完成并插入正文：26 张
 - 保留真实角色资产：5 张
 - 待继续生成：0 张

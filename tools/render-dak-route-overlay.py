@@ -66,6 +66,29 @@ AREA_CN = {
     "Barge": "驳船区",
 }
 
+HEAT_BUBBLE_OFFSETS = {
+    "Gas Station": (16, 18),
+    "Alley": (26, -18),
+    "Temple": (30, -8),
+    "Archery Range": (-34, 18),
+    "Police Station": (34, -22),
+    "Stream": (30, 16),
+    "School": (-18, -32),
+    "Fire Station": (390, -92),
+    "Pond": (26, -20),
+    "Hospital": (54, 6),
+    "Hotel": (-34, 28),
+    "Beach": (-36, 26),
+    "Forest": (-36, 24),
+    "Cemetery": (36, 26),
+    "Factory": (64, 30),
+    "Uptown": (-38, -24),
+    "Chapel": (28, 36),
+    "Warehouse": (-44, 28),
+    "Dock": (-18, 42),
+    "Barge": (54, 42),
+}
+
 PALETTE = [
     (85, 205, 252),
     (255, 143, 71),
@@ -295,8 +318,22 @@ def render_heatmap(samples, capture_date: str) -> None:
 
     max_count = max(area_counter.values()) or 1
     for area, count in sorted(area_counter.items(), key=lambda item: item[1]):
-        x, y = pos(area)
+        anchor_x, anchor_y = pos(area)
+        offset_x, offset_y = HEAT_BUBBLE_OFFSETS.get(area, (0, 0))
+        x, y = anchor_x + offset_x, anchor_y + offset_y
         radius = 13 + int(34 * count / max_count)
+        if offset_x or offset_y:
+            draw.line(
+                [(anchor_x, anchor_y), (x, y)],
+                fill=(185, 28, 28, 70),
+                width=1,
+            )
+            draw.ellipse(
+                [anchor_x - 3, anchor_y - 3, anchor_x + 3, anchor_y + 3],
+                fill=(255, 255, 255, 220),
+                outline=(185, 28, 28, 180),
+                width=1,
+            )
         draw.ellipse([x - radius, y - radius, x + radius, y + radius], fill=(255, 75, 75, 92), outline=(185, 28, 28, 210), width=3)
         label = str(count)
         tw = draw.textlength(label, font=font(18, True))
